@@ -1,4 +1,5 @@
 package com.yang.dao;
 
-public interface RoomCatalogDao {
+public interface RoomCatalogDao{
+
 }
